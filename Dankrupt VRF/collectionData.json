@@ -1,0 +1,23 @@
+{
+	"title": "Classic Game GIFs",
+	"series": "1",
+	"artist": "poesch",
+	"perMintCost": "40",
+	"maxMintPerPerson": "2",
+	"dankruptVRF": "0.0.1",
+	"metaCids": {
+		"cid1": "QmfEAYGSibSKtFHS23gDRFFcSJf7cqNuPCQxz6eFVM1hYr",
+		"cid2": "Qmc9S4wX3VorKNd9fRKBWZDufrHBYiztnvNNsfjS8tdHb4",
+		"cid3": "QmTH5esb8JMzZY6R5zar68qKyQwNUuDHjqiDfPqr7Jjhj2",
+		"cid4": "QmVaAThvbjdqZwYHvJ8j5yni719d4PmQsmfCtCVKz7Frsj",
+		"cid5": "QmSYQt2F2yXhau4VQuqBaeUHGgukgM8brXGrhmQNy2Ep6D",
+		"cid6": "QmVroLyeHJDS5ZNrJPzbgQnSMPJVmig6zjS5M43y85Jj9F",
+		"cid7": "QmQL8ZiYfNDNPUGa54Rwi9bGhxJ1nYEaGgFjmRRfNvg6rg",
+		"cid8": "QmTiEt16EaXbvDopaHoq5Ki5ciSAxkUQbjznjyPSnVfXy9",
+		"cid9": "QmchrSixxNXhFT9KK4MuBuBuW1Txuq16oY3NgiXf3YnYSA",
+		"cid10": "QmXHoDmz5Tskc14TZMLEDGAYDaQ81ZeSoPzByKTmxLVvjJ",
+		"cid11": "QmbzhAmw85VDefzsNW9EqHff5SU5wD2JGSNR8ZPB2xqXJy",
+		"cid12": "QmSQr7gwRG48Ea3cFqnTktZN9kLgiAzANyVxGqrPJwFKU3",
+		"cid13": "QmUqWontGSRyeiqCxXftXHmttDnpKi4B9AcK3NxurYvUQb"
+	}
+}
