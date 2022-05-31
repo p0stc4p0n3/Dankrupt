@@ -5,7 +5,7 @@
 ### License:  The MIT License
 
 This repository is not an exact copy of the the DankruptVRF v.0.0.1 and should not be used as a source when implementing.  This repository is meant to be a guide for how to use as well as a place for others to contribute to future version releases.
-The logic represented in the function here is identical to the logic of the source function (CID: QmTvPv1fzuyBmNkSNwtgUpt8qqCjxREeGWGsXVaJTXiGpT).  Some additional comments have been added to dankruptVRF.js to improve readability and developer experience.
+The logic represented in the function here is identical to the logic of the source function (CID: QmTvPv1fzuyBmNkSNwtgUpt8qqCjxREeGWGsXVaJTXiGpT).  Some additional comments may be added to dankruptVRF.js to improve readability and developer experience.
 
 ## Alright, let's get started:
 
