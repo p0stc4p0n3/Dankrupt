@@ -131,6 +131,8 @@ EZPZ setup = use valid .html and import the necessary assets here.  In this repo
 > The CID for our example transactionData.JSON is Qmcq3u69NXiacJqnJ2NMW9znAMkpaS6s7Pp2XoAiF6M7A2
 > You can download this repository, enter this CID at the end of the https path on Line 12, and use this to test DankruptVRF
 
+> Line 13 we are importing the DankruptVRF v.0.0.1 (CID: QmTvPv1fzuyBmNkSNwtgUpt8qqCjxREeGWGsXVaJTXiGpT)
+
 That's actually it.  This is now a fully functioning implementation of DankruptVRF.  If you load this into vscode or a similar IDE, and open it using liveserver (or just plop it into a functioning library), you can open your browsers console (inspect element - ctrl+i for most browsers) and you will see something like this:
 ```
 0: "0x5bdb878c6dcb352699a4500cd21797950a46b7ba has won ipfs://QmTMh8mPUnPZ3cLozuz12huczWzihepofyoxioPx27ydBw/Castlevania.gif"
