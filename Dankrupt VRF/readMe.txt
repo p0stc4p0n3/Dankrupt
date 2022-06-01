@@ -81,7 +81,7 @@ In order to accomplish this, future versions of DankruptVRF may require some add
 You can, yourself, require a comment such as this in order to claim the transaction as a valid mint, if you would like.
 For now, a transactionData.JSON which is not in the correct order **might** be considered a dishonest report of the transactions, so, let's just keep them in order.
 
-Here is the transactionData.JSON we are using for them demonstration (which is also available in the repo files):
+Here is the transactionData.JSON we are using for the demonstration (which is also available in the repo files):
 
 ```
 {
@@ -144,7 +144,7 @@ EZPZ setup = use valid .html and import the necessary assets here.  In this repo
 
 > Line 13 we are importing the DankruptVRF v.0.0.1 (CID: QmTvPv1fzuyBmNkSNwtgUpt8qqCjxREeGWGsXVaJTXiGpT)
 
-That's actually it.  This is now a fully functioning implementation of DankruptVRF.  If you load this into vscode or a similar IDE, and open it using liveserver (or just plop it into a functioning library), you can open your browsers console (inspect element - ctrl+i for most browsers) and you will see something like this:
+That's actually it.  This is now a fully functioning implementation of DankruptVRF.  If you load this into vscode or a similar IDE, and open it using liveserver (or just plop it into a functioning library), you can open your browsers console (inspect element - ctrl+shift+i for most browsers) and you will see something like this:
 ```
 0: "0x5bdb878c6dcb352699a4500cd21797950a46b7ba has won ipfs://QmTMh8mPUnPZ3cLozuz12huczWzihepofyoxioPx27ydBw/Castlevania.gif"
 1: "0x5c67732f63323dabf70ebdded102bff210d086ca has won ipfs://QmdXkSBbLVziCojfFuPP8Ac3NNbBp92VpStrVnYPvCW4Tp/Pokemon.gif"
