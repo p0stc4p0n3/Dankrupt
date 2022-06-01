@@ -18,7 +18,7 @@ If any participant implements this with a scheme which takes any sources which a
 
 ### For NFT Creators:  Dankrupt suggests that when you choose to use the DankruptVRF, you make it known in advance that the DankruptVRF will be used for the distribution of your collection.  Please make sure to include the "dankruptVRF" key in your collectionData.JSON, and set this value to the desired version of the VRF (the only version available today would be "0.0.1")
 
-### For Non-Technical NFT Creators:  If you would like hands-on assistance in making use of the DankruptVRF, you are welcome to visit us: https://discord.gg/ApFvUW8k
+### For Non-Technical NFT Creators:  If you would like hands-on assistance in making use of the DankruptVRF, you are welcome to hit me up in the Loopring Discord:  https://discord.gg/ws3r3B5v )
 
 ### For participants who wish to use the DankruptVRF to verify for themselves the randomness and validity of a distribution:  This guide will show how to implement the VRF and run it locally.  There may also be any number of places online you can visit to check the VRF output.  This guide should be helpful in being able to verify that those implementations are correct and that the output is a valid and honest output.
 
