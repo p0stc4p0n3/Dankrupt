@@ -136,11 +136,11 @@ EZPZ setup = use valid .html and import the necessary assets here.  In this repo
 
 > Line 11 is where we import the CID for our collectionData.JSON
 > The CID for our example collectionData.JSON is QmPX6eFamwuDNaUDdJKgE8CUS4NEknVsKgAiNgkJLTwCnL
-> You can download this repository, enter this CID at the end of the https path on Line 11, and use this to test DankruptVRF
+> You can copypasta this .html, enter this CID at the end of the https path on Line 11, and use this to test DankruptVRF
 
 > Line 12 is where we import the CID for our transactionData.JSON
 > The CID for our example transactionData.JSON is Qmcq3u69NXiacJqnJ2NMW9znAMkpaS6s7Pp2XoAiF6M7A2
-> You can download this repository, enter this CID at the end of the https path on Line 12, and use this to test DankruptVRF
+> You can copypasta this .html, enter this CID at the end of the https path on Line 12, and use this to test DankruptVRF
 
 > Line 13 we are importing the DankruptVRF v.0.0.1 (CID: QmTvPv1fzuyBmNkSNwtgUpt8qqCjxREeGWGsXVaJTXiGpT)
 
